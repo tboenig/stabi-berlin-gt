@@ -1,7 +1,7 @@
 schema: >-
   https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
 title: stabi-berlin-gt
-url: https://github.com/casab100/stabi-berlin-gt.git
+url: https://github.com/tboenig/stabi-berlin-gt.git
 authors:
   - name: Sabokat
     surname: Carolin
