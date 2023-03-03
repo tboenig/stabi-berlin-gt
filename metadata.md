@@ -13,7 +13,7 @@
       <dt>Time:</dt>
       <dd>1569-1569</dd>
       <dt>GT Type:</dt>
-      <dd>data_document</dd>
+      <dd>data_structure_and_text</dd>
    </dl>
    <details>
       <summary>More Information</summary>
@@ -23,7 +23,7 @@
          <dt>License:</dt>
          <dd>CC0 1.0</dd>
          <dt>Project:</dt>
-         <dd>Das Hexen Buch.</dd>
+         <dd>stabi-berlin-gt.</dd>
       </dl>
    </details>
 </div>
@@ -43,7 +43,7 @@
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/stabi-berlin-gt/releases/download/v4/bagitDump-v4.zip">Current version download: bagitDump-v4.zip</a>
+         <a href="https://github.com/tboenig/stabi-berlin-gt/releases/download/v9/bagitDump-v9.zip">Current version download: bagitDump-v9.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/stabi-berlin-gt/releases">Version archive</a>
@@ -52,6 +52,55 @@
 </div>
 <div class="metadata">
    <h2>Total view</h2>
+   <table class="noStyle">
+      <tr>
+         <td>💡 You can show and hide individual columns of the table.<br/>Click the corresponding button.
+                                <details>
+               <summary>Legend</summary>
+               <dl class="grid">
+                  <dt>TextLine</dt>
+                  <dd>TextLine</dd>
+                  <dt>Page</dt>
+                  <dd>Page</dd>
+                  <dt>TxtRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
+                        target="_blank">TextRegion</a>
+                  </dd>
+               </dl>
+            </details>
+         </td>
+         <td>
+            <div class="grid-container">
+               <button onclick="document.getElementById('table_id').classList.toggle('hide1')">
+                  <i>TextLine</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide2')">
+                  <i>Page</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
+                  <i>TxtRegion</i>
+               </button>
+            </div>
+         </td>
+      </tr>
+   </table>
+   <table id="table_id">
+      <thead>
+         <tr>
+            <th>TextLine</th>
+            <th>Page</th>
+            <th>TxtRegion</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td>1532</td>
+            <td>54</td>
+            <td>59</td>
+         </tr>
+      </tbody>
+   </table>
 </div>
 <div>
    <h2>Details</h2>
