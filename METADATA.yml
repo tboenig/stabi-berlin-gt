@@ -8,7 +8,7 @@ authors:
     roles:
       - transcriber
 description: Ground truth for digitized publications of Staatsbibliothek zu Berlin
-project-name: Das Hexen Buch.
+project-name: stabi-berlin-gt.
 language:
   - deu
 script:
@@ -25,7 +25,7 @@ hands:
 license:
   - name: CC0 1.0
     url: https://creativecommons.org/licenses/zero/1.0/
-gtTyp: data_document
+gtTyp: data_structure_and_text
 format: Page-XML
 sources:
   - reference: Wier, J. (1569). Das Hexen Buch. Schmidt, Peter, Frankfurt/Main
