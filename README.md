@@ -10,16 +10,32 @@
       <dt id="Time">Time:</dt>
       <dd>1569-1569</dd>
       <dt id="GTT">GT Type:</dt>
-      <dd>data_document</dd>
+      <dd>data_structure_and_text</dd>
       <dt id="License">License:</dt>
       <dd>CC0 1.0</dd>
       <dt id="Guidelines">Transcription Guidelines:</dt>
       <dd>OCR-D Richtlinien</dd>
       <dt id="Project">Project:</dt>
-      <dd>Das Hexen Buch.</dd>
+      <dd>stabi-berlin-gt.</dd>
    </dl>
    <h2>Sources</h2>
    <h3>The volume of transcriptions:</h3>
+   <table id="table_id">
+      <thead>
+         <tr>
+            <th>TextLine</th>
+            <th>Page</th>
+            <th>TxtRegion</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td>1532</td>
+            <td>54</td>
+            <td>59</td>
+         </tr>
+      </tbody>
+   </table>
    <div id="transcriptions">
       <h3>List of transcriptions</h3>
       <div>
@@ -45,7 +61,27 @@
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>ppn813172802</td>
+                  <td>59</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1532</td>
+                  <td>54</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
