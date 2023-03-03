@@ -25,14 +25,11 @@ hands:
 license:
   - name: CC0 1.0
     url: https://creativecommons.org/licenses/zero/1.0/
-gtTyp: data_structure
+gtTyp: data_structure_and_text
 format: Page-XML
 sources:
   - reference: Wier, J. (1569). Das Hexen Buch. Schmidt, Peter, Frankfurt/Main
     link: http://resolver.staatsbibliothek-berlin.de/SBB00018A0E00010000
-volume:
-  - metric: pages
-    count: 40
 transcription-guidelines: OCR-D Richtlinien
 modeltitle: Zauberer2
 modeldescription: Neu trainiertes Modell basierend auf dem Modell digitue-best
